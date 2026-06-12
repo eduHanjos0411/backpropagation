@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
-import redeNeural  # Importa a sua classe RedeNeuralMLP
+import redeNeural  
 
 # Configuração da página do Streamlit
 st.set_page_config(page_title="Experimentos XOR - MLP", layout="wide")
